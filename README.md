@@ -6,7 +6,4 @@
 
 ## Uso sudo ./redfield.sh
 
-# Contacto 
-
- ## https://t.me/Nik0_00101
 
